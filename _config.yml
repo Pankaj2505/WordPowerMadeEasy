@@ -1,0 +1,9 @@
+# Site settings
+title: Word Power Made Easy Daily Vocabulary
+author:
+  name: Pankaj Bhatt
+  email: pkj.bhatt@yahoo.com
+description: "adding all new vocabulary words"
+
+# Build settings
+remote_theme: jekyll/minima
