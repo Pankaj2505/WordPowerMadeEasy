@@ -67,3 +67,42 @@ tags: personality Types
 
 # Session 3
 
+3. Verto - Turn 
+   - Intro : Turn inward
+   - Introvert : whoes thoughts turns inward
+   - Extro : Turn Outward
+   - Extovert : a person whoes thoughtd moves outward
+   - ambi : Turn to both side
+   - Ambivert : a person who think about about himself and also dont care what others think about him.
+
+4. Dexterous - Skillful
+   - ambidextrous (am'-ba-DEKS'-tr::1s) who is able to use both hands with equal skill.
+   - The noun is ambidexterity (am' -ba-deks-T AIR'-a-tee). 
+   - noun Dexterity mean skill
+   - The ending -ous is a common adjective suffix (famous, dangerous, perilous, etc.); 
+   - -ity is a common noun suffix (vanity, quality, simplicity, etc.). 
+
+5. Gauche - Bad , Sinister
+   - Call someone gauche (GOSH) and you imply clumsiness(bewakoof), generally social rather than physical. 
+   - a gauche offer of sympathy is so bumbling as to be embarrassing; 
+   - gaucherie (GO'-sha-ree) is an awkward, clumsy, tactless, embarrassing way of saying things or of handling situations
+6. adroit : Skill full 
+   - adroit, like dexterous, means skillful, but especially in the exercise of the mental facilities. 
+   - The adroit person is quickwitted, can get out of difficult spots cleverly, can handle situations ingeniously.
+   - Adroitness is, then, quite the opposite of gaucherie. 
+
+7. Misein : Hate 
+   - The misanthrope hates mankind (Greek anthropos, mankind); 
+   - the misogynist hates women (Greek gyne, woman); 
+   - the misogamist hates marriage (Greek gamos, marriage). 
+   - philanthropist (fa-LAN'-thra-pist), one who loves mankind and shows such love by making substantial financial contributions to charitable organizations or by donating time and energy to helping those in need. 
+   -  the root gamos, marriage, occurs also in monogamy (rna-NOG'-a-mee), bigamy (BIG'-a-rnee), and polygamy (pa-LIG'-a-mee). 
+   -  monos means one, bi- means two, polys means many.
+   -   monogamy is the custom of only one marriage (at a time). 
+   -   Bigamy, by etymology, is two marriages-in actuality, the unlawful act of contracting another marriage without divorcing one's current legal spouse. 
+   -   polygamy, by derivation many marriages, polygyny (p;;i-LIJ'-a-nee)-polys, many, plus gyne, polygyny (p;;i-LIJ'-a-nee)-polys, many, plus gyne, woman. 
+   -   polyandry (pol-ee-AN'-dree), from polys plus Greek andros, male. 
+
+8. asketes: monk or hermit. 
+   - That person is an ascetic who leads an existence, voluntarily of course, that compares in austerity, simplicity, and rigorous hardship with the life of a monk.
+   - The practice is asceticism (a-SET'-;l-siz-am), the adjective ascetic. 
