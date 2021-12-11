@@ -1,5 +1,5 @@
-...
+---
 layout: home
-...
+---
 
-welcome to my new blog
+
