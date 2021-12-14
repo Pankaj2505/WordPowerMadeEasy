@@ -1,6 +1,7 @@
 ---
-layout: Post
-Title : How to talk about Practitionar
+layout: post
+title: How to talk about practitionar
+tags: grammer
 ---
 
 # Session 1
