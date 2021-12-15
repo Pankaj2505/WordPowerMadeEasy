@@ -4,7 +4,7 @@ title: How to talk about practitionar
 tags: grammer
 ---
 
-# Session 1
+# Session 4
 - This specialist gives you series of test to find out what ails you, or what is the problem
 > an internist
 
@@ -35,7 +35,8 @@ tags: grammer
 - alleviate mental and emotional disturbnance by drug, electroshock, psycothreapy
 > a psychiatrist
 
-# session 2
+![Etymology](\img\posts\HowToTalkWIthPractitionar\session4-1.PNG)
+# session 5
 1. internous : inside
    - internist, internal
    - internist explore your inside and determine the state of your internal oragan
@@ -94,4 +95,43 @@ tags: grammer
    - Optician is built on opsis, optikos, plus -ician, expert. The specialty is optics (OP'-tiks). 
    - Adjectives: optometric ( op-ta-MET'-rik) or optometrical (opta-MET'-ra-kal), optical (OP'-ta-kal).
 
-# Session 3
+# Session 6
+1. Orthos : Straightner, odontos- Teeth, paidos- Child
+   - Orthopedist Straightens Child
+   - Orthopedics specialty treats deformities, injuries, and diseases of the bones and joints (of adults as well as children, of course), often by surgical procedures. 
+   - Adjective: orthopedic (awr-tha-PEE'-dik). 
+   - Orthodontia (awr-tha-DON'-sha), the straightening of teeth
+   - Adjective: orthodontic (awr-tha-DON'-tik)
+
+2. Kardia - Heart, logos - Science
+   - Cardiologist combines Greek kardia, heart, and logos, science. 
+   - cardiology (kahr-dee-OL'-a-jee),Speciality
+   - the adjective cardiological (kahr'-dee-a-LOJ'-a-kal). 
+   - cardiac (KAHR'-dee-ak) condition refers to some malfunctioning of ·the heart;
+   - a cardiogram (KAHR'-dee-a-gram') is an electrically produced record of the heartbeat. 
+   - cardiograph (KAHR'-dee-agraf') The instrument that produces this record 
+
+3. neuron - Nerve, algos - pain, osis - abnormal
+   - Neurologist - practitionar
+   - neurology (noor-OL'-a-jee) nerve science
+   - adjective: neurological (noor-a-LOJ'-a-kal). 
+   - Neuralgia (noor-AL'-ja) is acute pain along the nerves and their branches.
+   - Neuritis (noor-1'-tis), is inflammation of the nerves. 
+   - Neurosis (noor-0'-sis), is not a disorder of the nerves, insted its a disorder with psyche. A man who spends most of his time worrying about his health, counting his money, plotting revenge, or washing his · hands, can hope for little emotional growth." . 
+   - Neurotic (m;lOr-OT'-ik) is both the adjective form and the term for a person suffering from neurosis. 
+
+4. psyche : spirit or soul,  osis- abnormal, iatreia- medical healing
+   - neurosis is not a form of mental unbalane. 
+   - psychosis (si-KO'-sis), A full-blown mental disorder 
+   -  psychotic (si-KOT'-ik) has lost contact with reality
+   - psychiatrist by etymology is a mind-healer. 
+   - The specialty is psychiatry (si- or saKf-~-tree); 
+   - the adjective is psychiatric (si~kee-AT'-rik). 
+
+5. geras - old , iatreia
+   - geriatrics(jair'-ee-AT'-riks), the specialty dealing with the particular medical needs of the elderly. 
+   - geriatrician (jair'-ee-::>-TRISH'-~n) pratitionar
+   - geriatric (jair'-ee-AT'-rik). adjective
+
+   ![Etymology-1](\img\posts\HowToTalkWIthPractitionar\Session6-1.PNG)
+   ![Etymology-2](\img\posts\HowToTalkWIthPractitionar\Session6-2.PNG)
