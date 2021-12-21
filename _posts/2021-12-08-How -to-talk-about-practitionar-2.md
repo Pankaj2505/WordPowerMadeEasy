@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to talk about practitionar 2
-tags: grammer
+tags: vocab
 ---
 # Session 7
 1. this practitioner is an expert in the dark mysteries of human behavior-what makes peopl.e act as they do, why they have certain feelings, how their personalities 
@@ -35,3 +35,46 @@ personality, or aptitudes, and is often called upon to verify the authenticity o
 
 9. this social scientist deals with the financial, economic, sexual, social, retire~ent, and other non-medical problems of the elderly. 
 > A gerontologist
+
+
+# Session 8
+1. psyche- soul, spirit   iteria - medical healing    logos - science   pathos - suffering soma - body
+    - psychiatrist- healing of soul
+    - psychology - study of soul and mind.
+    - psychological - adjective
+    - psychic - people having sixth sense
+    - psychopathy - suffering from mind issues
+    - psychosomatic - body and mind - effect of unconsious mind on body. like in meeting body sweats.
+    - psychoanalysis - is a process of analysing the mind by discussing with him , consiusly or by hypnosis.
+    - psychogenic- disease can be psychogenic if its coused by emotion
+
+# Session 9 
+1. orthos - straight  odontos - teeth pedos - child peri - around
+    - pedodontist - doctor who take care of child tooth.
+    - pedodontia - speciality  
+    - pedodontic - adjective
+    - periodontist - specialist who take care of gum.
+
+2. opsis, optikos : eyes  metron - measurement
+    - thermometer - measure heat
+    - barometer - measure atmospheric pressure
+    - sphygomomanometer - measuring blood pressure
+    
+3. osteo: bone pathos - suffering 
+    - osteopath - sufereing from bone injury
+    - osteopathic - this physian dont take care of bone disease.
+    - orthopedist - take care of bone diseasae.
+
+4. podos - foot iatria - healing 
+    - podiatry - practice of healing the foot
+    - pous - arm
+    - octopus 
+    - platypus - platys - broad
+    - podium - speaker platform 
+
+5. chiro - hand
+    - chiropractor : heal with there hand using acupuncture.
+    
+
+
+

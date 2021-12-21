@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to talk about practitionar
-tags: grammer
+tags: vocab
 ---
 
 # Session 4

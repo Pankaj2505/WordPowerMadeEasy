@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to read this book
-tags: grammer
+tags: vocab
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to talk about personality Types
-tags: personality Types
+tags: vocab
 
 ---
 
